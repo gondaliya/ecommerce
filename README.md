@@ -1,4 +1,4 @@
-# gonaturo
+# Amazon like app
 
 an ecommerce app
 
