@@ -1,6 +1,4 @@
-# Amazon like app
-
-an ecommerce app
+# Ecommerce
 
 ## Getting Started
 
